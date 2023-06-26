@@ -2,7 +2,11 @@
 -------------------
 See my profile at [Poro]()
 
-/></a> ### Skills 
+<a href="https://www.twitter.com/htlin222" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/htlin222?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
