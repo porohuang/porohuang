@@ -1,6 +1,6 @@
 ### Poro Huang
 -------------------
-See my profile at [Poro] ()
+See my profile at [Poro]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
